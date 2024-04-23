@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Menu_Widget.uasset",
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap",
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Fonts/birmingham.uasset",
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Fonts/birmingham_Font.uasset",
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Fonts/IMMORTAL.uasset",
+				"C:/Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Fonts/IMMORTAL_Font.uasset",
 				"F:/University Work/Master_Collaboration/CollabProject/RealmWalker/Content/Blueprints/BP_Statue.uasset",
 				"F:/University Work/Master_Collaboration/CollabProject/RealmWalker/Content/Levels/L_RealmHandler.umap",
 				"F:/University Work/Master_Collaboration/CollabProject/RealmWalker/Content/Levels/L_Realm1.umap",
