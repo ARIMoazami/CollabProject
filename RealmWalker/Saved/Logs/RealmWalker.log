@@ -4460,3 +4460,196 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.04.25-16.19.08:927][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 6.34 sec)
 [2024.04.25-16.19.08:932][932]AssetCheck: New page: Asset Save: LevelSelect_Cam
 [2024.04.25-16.19.08:932][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam
+[2024.04.25-16.20.10:427][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.20.10:427][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.20.10:428][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.20.10:428][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.20.14:071][338]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.14:071][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.14:078][338]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.14:078][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.15:569][412]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.15:569][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.15:576][412]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.15:576][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.16:756][465]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.16:756][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.16:763][465]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.16:763][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.17:774][518]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.17:774][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.17:781][518]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.17:781][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.18:827][554]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.18:827][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.18:834][554]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.20.18:834][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.20.18:880][554]LogViewport: Scene viewport resized to 1331x560, mode Windowed.
+[2024.04.25-16.20.18:902][555]LogViewport: Scene viewport resized to 1331x558, mode Windowed.
+[2024.04.25-16.35.13:671][310]LogDerivedDataCache: C:/Users/f024911k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5052 files in 6807 folders with total size 524 MiB.
+[2024.04.25-16.44.42:705][892]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.LevelSelect_Widget
+[2024.04.25-16.44.42:705][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.44.42:705][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.44.42:744][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.44.42:744][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.44.44:496][981]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.44.44:496][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.44.44:504][981]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.44.44:504][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.44.44:530][981]LogViewport: Scene viewport resized to 1331x567, mode Windowed.
+[2024.04.25-16.44.44:553][982]LogViewport: Scene viewport resized to 1331x561, mode Windowed.
+[2024.04.25-16.44.44:663][983]LogViewport: Scene viewport resized to 1331x558, mode Windowed.
+[2024.04.25-16.44.46:327][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.25-16.44.49:186][ 47]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.25-16.44.51:343][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget
+[2024.04.25-16.44.51:344][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.44.51:344][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.44.51:385][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.44.51:385][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.45.09:111][130]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.45.09:120][130]LogBlueprint: Warning: [AssetLog] C:\Users\f024911k\Documents\GitHub\CollabProject\RealmWalker\Content\Interfaces\KatieUserWidgets\Menu_Widget.uasset: [Compiler] On Unhovered (Button_LevelSelect)  does not have a valid matching component!
+[2024.04.25-16.45.09:121][130]LogBlueprint: Warning: [AssetLog] C:\Users\f024911k\Documents\GitHub\CollabProject\RealmWalker\Content\Interfaces\KatieUserWidgets\Menu_Widget.uasset: [Compiler] On Hovered (Button_LevelSelect)  does not have a valid matching component!
+[2024.04.25-16.45.09:165][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.25-16.45.20:916][659]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.45.20:968][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.25-16.45.40:026][608]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.45.40:076][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.25-16.45.44:148][777]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.LevelSelect_Widget
+[2024.04.25-16.45.44:148][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.45.44:148][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.45.44:187][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.45.44:187][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.45.46:139][875]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.45.46:139][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.45.46:146][875]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.45.46:146][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.46.04:897][826]LogContentBrowser: Attempting asset rename: LevelSelect_Widget -> NOTNEEDEDLevelSelect_Widget
+[2024.04.25-16.46.04:930][826]LogMetaData: Removing '/Game/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget.NOTNEEDEDLevelSelect_Widget_C' ref from Metadata '/Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.PackageMetaData'
+[2024.04.25-16.46.04:930][826]LogMetaData: Removing '/Game/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget.SKEL_NOTNEEDEDLevelSelect_Widget_C' ref from Metadata '/Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.PackageMetaData'
+[2024.04.25-16.46.04:930][826]LogMetaData: Removing '/Game/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget.SKEL_NOTNEEDEDLevelSelect_Widget_C:BndEvt__LevelSelect_Widget_Button_Back_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.PackageMetaData'
+[2024.04.25-16.46.04:933][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.46.05:031][826]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Menu_Widget
+[2024.04.25-16.46.05:031][826]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Menu_Widget1773B3B543D0109D592487BADB71A227.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Menu_Widget.uasset'
+[2024.04.25-16.46.05:046][826]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget
+[2024.04.25-16.46.05:046][826]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/NOTNEEDEDLevelSelect_WidgetD957655B48A348A85C364F991622DE2F.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget.uasset'
+[2024.04.25-16.46.05:076][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 6.49 sec)
+[2024.04.25-16.46.05:115][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.25-16.46.05:139][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.25-16.46.05:159][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.25-16.46.05:165][826]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.25-16.46.05:165][826]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/NOTNEEDEDLevelSelect_Widget.NOTNEEDEDLevelSelect_Widget
+[2024.04.25-16.46.05:166][826]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget
+[2024.04.25-16.46.16:195][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.46.16:344][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.25-16.46.16:357][426]LogSavePackage: Moving output files for package: /Game/Levels/L_MainMenu
+[2024.04.25-16.46.16:357][426]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/L_MainMenuABD26CFE4E46715ECB63268679BF8964.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap'
+[2024.04.25-16.46.16:362][426]LogFileHelpers: No new changes to save!
+[2024.04.25-16.46.16:363][426]LogFileHelpers: Saving map 'L_MainMenu' took 0.041
+[2024.04.25-16.46.16:386][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 6.68 sec)
+[2024.04.25-16.46.16:392][426]AssetCheck: New page: Asset Save: L_MainMenu
+[2024.04.25-16.46.16:392][426]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_MainMenu.L_MainMenu
+[2024.04.25-16.46.49:672][976]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.46.49:723][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.25-16.46.50:487][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.46.50:652][ 14]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Menu_Widget
+[2024.04.25-16.46.50:653][ 14]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Menu_WidgetF83A655245E7AD3E8FE7A6B016C12491.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Menu_Widget.uasset'
+[2024.04.25-16.46.50:676][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 6.87 sec)
+[2024.04.25-16.46.50:681][ 14]AssetCheck: New page: Asset Save: Menu_Widget
+[2024.04.25-16.46.50:681][ 14]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget
+[2024.04.25-16.46.52:333][100]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.46.52:342][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.46.52:342][100]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:46:52)
+[2024.04.25-16.46.52:342][100]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.46.52:346][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003385s)
+[2024.04.25-16.46.52:346][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003420s)
+[2024.04.25-16.46.52:346][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.46.52:346][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.46.52:346][100]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.46.52:347][100]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2024.04.25-16.46.52:369][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.25-16.46.52:370][100]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.46.52:370][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.46.52:370][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.46.52:371][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.46.52:371][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.46.52:371][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.46.52:373][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.46.52:385][100]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.46.52:386][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.46.52:386][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.46.52:386][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.46.52:387][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.04.25-16.46.52:387][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.04.25-16.46.52:388][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.04.25-16.46.52:388][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.04.25-16.46.52:388][100]LogInit: FAudioDevice initialized with ID 30.
+[2024.04.25-16.46.52:388][100]LogAudio: Display: Audio Device (ID: 30) registered with world 'L_MainMenu'.
+[2024.04.25-16.46.52:388][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.04.25-16.46.52:442][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.46.52:442][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.46.52:445][100]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.46.52
+[2024.04.25-16.46.52:446][100]LogWorld: Bringing up level for play took: 0.003869
+[2024.04.25-16.46.52:448][100]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.25-16.46.52:448][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.25-16.46.52:449][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2024.04.25-16.46.52:449][100]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.25-16.46.52:451][100]PIE: Server logged in
+[2024.04.25-16.46.52:452][100]PIE: Play in editor total start time 0.11 seconds.
+[2024.04.25-16.46.52:459][100]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.46.59:214][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.46.59:214][293]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.46.59:214][293]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.46.59:236][293]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.46.59:237][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.46.59:239][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.46.59:243][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.46.59:264][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.46.59:264][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.04.25-16.46.59:264][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.04.25-16.46.59:266][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.04.25-16.46.59:272][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.25-16.46.59:300][294]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.25-16.47.00:532][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:533][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:533][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:534][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:534][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:535][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:536][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.00:536][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.08:300][779]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.47.09:455][834]Cmd: DELETE
+[2024.04.25-16.47.09:455][834]Cmd: ACTOR DELETE
+[2024.04.25-16.47.09:468][834]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.47.09:480][834]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.47.09:487][834]LogEditorActor: Deleted Actor: LevelSelect_Cam_C
+[2024.04.25-16.47.09:511][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.25-16.47.09:514][834]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2024.04.25-16.47.09:528][834]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.47.31:721][583]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.47.31:721][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.47.31:728][583]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.47.31:729][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.47.31:764][583]LogViewport: Scene viewport resized to 1331x564, mode Windowed.
+[2024.04.25-16.47.31:919][584]LogViewport: Scene viewport resized to 1331x558, mode Windowed.
+[2024.04.25-16.47.33:744][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.25-16.47.33:772][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.25-16.47.34:655][679]LogSlate: Window 'Save Content' being destroyed
+[2024.04.25-16.47.34:697][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.47.34:793][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.25-16.47.34:805][679]LogSavePackage: Moving output files for package: /Game/Levels/L_MainMenu
+[2024.04.25-16.47.34:806][679]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/L_MainMenu99139215466443A5CB53E4A5C20AEB5D.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap'
+[2024.04.25-16.47.34:810][679]LogFileHelpers: No new changes to save!
+[2024.04.25-16.47.34:811][679]LogFileHelpers: Saving map 'L_MainMenu' took 0.039
+[2024.04.25-16.47.34:835][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 7.00 sec)
+[2024.04.25-16.47.34:841][679]AssetCheck: New page: Asset Save: L_MainMenu
+[2024.04.25-16.47.34:841][679]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_MainMenu.L_MainMenu
