@@ -3626,3 +3626,837 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.04.25-15.51.05:116][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.04.25-15.51.05:117][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.04.25-15.51.05:117][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:693][264]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-15.52.37:700][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-15.52.37:700][264]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 17:52:37)
+[2024.04.25-15.52.37:700][264]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-15.52.37:703][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2024.04.25-15.52.37:704][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003196s)
+[2024.04.25-15.52.37:704][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-15.52.37:704][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-15.52.37:704][264]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-15.52.37:704][264]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2024.04.25-15.52.37:726][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.25-15.52.37:728][264]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-15.52.37:728][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-15.52.37:728][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-15.52.37:728][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-15.52.37:728][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-15.52.37:728][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-15.52.37:730][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-15.52.37:744][264]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-15.52.37:744][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-15.52.37:744][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-15.52.37:744][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-15.52.37:745][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.25-15.52.37:745][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.25-15.52.37:747][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.25-15.52.37:747][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.25-15.52.37:747][264]LogInit: FAudioDevice initialized with ID 21.
+[2024.04.25-15.52.37:747][264]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_MainMenu'.
+[2024.04.25-15.52.37:747][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.25-15.52.37:778][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-15.52.37:778][264]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-15.52.37:781][264]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-16.52.37
+[2024.04.25-15.52.37:782][264]LogWorld: Bringing up level for play took: 0.003651
+[2024.04.25-15.52.37:784][264]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.04.25-15.52.37:789][264]PIE: Server logged in
+[2024.04.25-15.52.37:790][264]PIE: Play in editor total start time 0.089 seconds.
+[2024.04.25-15.52.37:808][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:809][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:809][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:810][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:810][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:811][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:811][264]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.37:812][264]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-15.52.46:586][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-15.52.46:586][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-15.52.46:586][521]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-15.52.46:621][521]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-15.52.46:622][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-15.52.46:624][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-15.52.46:628][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-15.52.46:650][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-15.52.46:651][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.25-15.52.46:651][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.25-15.52.46:652][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.25-15.52.46:659][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.25-15.52.46:673][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:673][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:673][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:673][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:674][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:674][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:675][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-15.52.46:683][522]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.04.25-15.52.46:687][522]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.03.00:254][ 11]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.03.00:299][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.25-16.03.01:489][ 47]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.03.01:496][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.03.01:497][ 47]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:03:01)
+[2024.04.25-16.03.01:498][ 47]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.03.01:501][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2024.04.25-16.03.01:501][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003021s)
+[2024.04.25-16.03.01:501][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.03.01:501][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.03.01:501][ 47]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.03.01:501][ 47]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.04.25-16.03.01:522][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.25-16.03.01:524][ 47]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.03.01:524][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.03.01:524][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.03.01:524][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.03.01:524][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.03.01:524][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.03.01:527][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.03.01:540][ 47]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.03.01:541][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.03.01:541][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.03.01:541][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.03.01:542][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.04.25-16.03.01:542][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.04.25-16.03.01:543][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.04.25-16.03.01:543][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.04.25-16.03.01:543][ 47]LogInit: FAudioDevice initialized with ID 22.
+[2024.04.25-16.03.01:543][ 47]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_MainMenu'.
+[2024.04.25-16.03.01:543][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.25-16.03.01:594][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.03.01:594][ 47]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.03.01:598][ 47]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.03.01
+[2024.04.25-16.03.01:598][ 47]LogWorld: Bringing up level for play took: 0.003992
+[2024.04.25-16.03.01:600][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.04.25-16.03.01:605][ 47]PIE: Server logged in
+[2024.04.25-16.03.01:606][ 47]PIE: Play in editor total start time 0.11 seconds.
+[2024.04.25-16.03.01:634][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:634][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:634][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:635][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:635][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:636][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:636][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.01:637][ 47]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.03.06:785][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.03.06:785][197]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.03.06:786][197]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.03.06:812][197]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.03.06:812][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.03.06:815][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.03.06:819][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.03.06:841][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.03.06:841][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.25-16.03.06:841][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.25-16.03.06:843][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.25-16.03.06:850][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.25-16.03.06:864][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:865][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:865][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:865][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:866][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:867][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:867][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.03.06:875][198]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.04.25-16.03.06:879][198]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.03.32:291][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.25-16.03.32:292][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_MainMenu' took 0.022
+[2024.04.25-16.03.32:292][349]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interfaces/KatieUserWidgets/Menu_Widget] ([2] browsable assets)...
+[2024.04.25-16.03.32:304][349]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget]
+[2024.04.25-16.03.32:304][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfaces/KatieUserWidgets/Menu_Widget]
+[2024.04.25-16.03.32:331][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Interfaces/KatieUserWidgets/Menu_Widget_Auto5
+[2024.04.25-16.03.32:331][349]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Menu_Widget_Auto5A7AB9EB8459A2A5EE4A240849AE85466.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Autosaves/Game/Interfaces/KatieUserWidgets/Menu_Widget_Auto5.uasset'
+[2024.04.25-16.03.32:332][349]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.04.25-16.05.07:041][820]BlueprintLog: New page: Compile Settings_Widget
+[2024.04.25-16.05.07:091][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.25-16.05.07:840][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.05.07:987][854]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Settings_Widget
+[2024.04.25-16.05.07:987][854]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Settings_Widget33B0A833442DB7BFF412ADBC437B2032.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Settings_Widget.uasset'
+[2024.04.25-16.05.08:016][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 4.26 sec)
+[2024.04.25-16.05.08:022][854]AssetCheck: New page: Asset Save: Settings_Widget
+[2024.04.25-16.05.08:022][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Settings_Widget.Settings_Widget
+[2024.04.25-16.05.35:518][828]BlueprintLog: New page: Compile Credits_Widget
+[2024.04.25-16.05.35:549][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.25-16.05.36:581][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.05.36:715][880]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Credits_Widget
+[2024.04.25-16.05.36:716][880]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Credits_WidgetAFB6A3DE4ABD3E3AB94C73B11835BFA4.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Credits_Widget.uasset'
+[2024.04.25-16.05.36:744][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 4.42 sec)
+[2024.04.25-16.05.36:749][880]AssetCheck: New page: Asset Save: Credits_Widget
+[2024.04.25-16.05.36:749][880]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Credits_Widget.Credits_Widget
+[2024.04.25-16.05.40:404][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.05.40:530][ 88]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Credits_Widget
+[2024.04.25-16.05.40:531][ 88]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Credits_WidgetE5662DCA4A2A6CC938FFA496059F1CD3.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Credits_Widget.uasset'
+[2024.04.25-16.05.40:579][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 4.59 sec)
+[2024.04.25-16.05.40:584][ 88]AssetCheck: New page: Asset Save: Credits_Widget
+[2024.04.25-16.05.40:584][ 88]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Credits_Widget.Credits_Widget
+[2024.04.25-16.05.53:104][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.05.53:105][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.05.53:105][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.10:099][271]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.25-16.06.17:793][712]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.06.17:803][712]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.25-16.06.17:812][712]LogPlayLevel: [PlayLevel] Compiling Menu_Widget before play...
+[2024.04.25-16.06.17:872][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.25-16.06.17:874][712]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2024.04.25-16.06.17:874][712]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:06:17)
+[2024.04.25-16.06.17:874][712]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.06.17:877][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2024.04.25-16.06.17:877][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.002906s)
+[2024.04.25-16.06.17:877][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.06.17:877][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.06.17:877][712]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.06.17:877][712]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2024.04.25-16.06.17:899][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.25-16.06.17:899][712]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.06.17:899][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.06.17:899][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.06.17:900][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.06.17:900][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.06.17:900][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.06.17:902][712]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.06.17:915][712]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.06.17:915][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.06.17:915][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.06.17:915][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.06.17:916][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.04.25-16.06.17:916][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.04.25-16.06.17:917][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.04.25-16.06.17:917][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.04.25-16.06.17:917][712]LogInit: FAudioDevice initialized with ID 23.
+[2024.04.25-16.06.17:917][712]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_MainMenu'.
+[2024.04.25-16.06.17:918][712]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.25-16.06.17:975][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.06.17:975][712]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.06.17:979][712]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.06.17
+[2024.04.25-16.06.17:979][712]LogWorld: Bringing up level for play took: 0.003467
+[2024.04.25-16.06.17:981][712]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.04.25-16.06.17:985][712]PIE: Server logged in
+[2024.04.25-16.06.17:986][712]PIE: Play in editor total start time 0.184 seconds.
+[2024.04.25-16.06.18:012][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:012][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:013][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:013][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:013][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:014][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:015][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:015][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.18:016][712]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.06.25:914][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.06.25:914][939]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.06.25:915][939]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.06.25:936][939]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.06.25:936][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.06.25:938][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.06.25:942][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.06.25:963][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.25-16.06.25:963][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.25-16.06.25:966][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.25-16.06.25:972][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.25-16.06.26:000][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:001][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:001][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:002][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:002][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:002][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:003][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:003][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.06.26:014][940]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.04.25-16.07.00:129][705]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.07.00:138][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.07.00:138][705]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:07:00)
+[2024.04.25-16.07.00:138][705]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.07.00:141][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003423s)
+[2024.04.25-16.07.00:141][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003458s)
+[2024.04.25-16.07.00:141][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.07.00:142][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.07.00:142][705]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.07.00:142][705]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2024.04.25-16.07.00:165][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.25-16.07.00:166][705]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.07.00:166][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.07.00:166][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.07.00:167][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.07.00:167][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.07.00:167][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.07.00:169][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.07.00:182][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.07.00:182][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.07.00:182][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.07.00:182][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.07.00:183][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.04.25-16.07.00:183][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.04.25-16.07.00:184][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.04.25-16.07.00:184][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.04.25-16.07.00:184][705]LogInit: FAudioDevice initialized with ID 24.
+[2024.04.25-16.07.00:184][705]LogAudio: Display: Audio Device (ID: 24) registered with world 'L_MainMenu'.
+[2024.04.25-16.07.00:184][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.25-16.07.00:226][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.07.00:226][705]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.07.00:230][705]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.07.00
+[2024.04.25-16.07.00:230][705]LogWorld: Bringing up level for play took: 0.003537
+[2024.04.25-16.07.00:232][705]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.04.25-16.07.00:236][705]PIE: Server logged in
+[2024.04.25-16.07.00:237][705]PIE: Play in editor total start time 0.1 seconds.
+[2024.04.25-16.07.00:261][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:262][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:262][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:262][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:263][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:263][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:264][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:264][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.00:265][705]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.07.48:674][130]Cmd: quit
+[2024.04.25-16.07.48:675][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.07.48:675][130]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.07.48:675][130]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.07.48:721][130]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.07.48:722][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.07.48:724][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.07.48:731][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.07.48:752][130]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.25-16.07.48:752][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.25-16.07.48:754][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.25-16.07.48:761][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.25-16.07.48:802][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:803][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:803][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:803][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:804][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:804][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:805][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:805][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.07.48:816][131]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.04.25-16.08.06:226][ 47]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.08.06:226][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.08.52:124][285]LogContentBrowser: Deferred new asset file creation: Settings_Cam1
+[2024.04.25-16.08.52:132][285]LogContentBrowser: Creating deferred item: Settings_Cam1
+[2024.04.25-16.08.52:142][286]LogContentBrowser: Renaming the item being created (Deferred Item: Settings_Cam1).
+[2024.04.25-16.08.57:385][576]LogContentBrowser: Attempting asset rename: Settings_Cam1 -> Quit_Cam
+[2024.04.25-16.08.57:412][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.25-16.08.57:422][576]LogContentBrowser: End creating deferred item Settings_Cam1
+[2024.04.25-16.08.58:851][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam_C
+[2024.04.25-16.08.58:851][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam_C
+[2024.04.25-16.08.58:853][630]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam as actor: Quit_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.Quit_Cam_C_0
+[2024.04.25-16.08.58:854][630]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam as actor: Quit_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.Quit_Cam_C_0
+[2024.04.25-16.08.59:768][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam_C
+[2024.04.25-16.08.59:768][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam_C
+[2024.04.25-16.08.59:771][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam as actor: Quit_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.Quit_Cam_C_1
+[2024.04.25-16.08.59:772][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam as actor: Quit_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.Quit_Cam_C_1
+[2024.04.25-16.08.59:790][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:791][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:791][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:792][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:792][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:792][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.08.59:814][684]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.08.59:835][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.09.20:765][597]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.09.20:813][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.25-16.09.21:421][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.09.21:569][624]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Menu_Widget
+[2024.04.25-16.09.21:569][624]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Menu_Widget79826A134AF596409C3DA385C67AFE61.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Menu_Widget.uasset'
+[2024.04.25-16.09.21:592][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 4.77 sec)
+[2024.04.25-16.09.21:597][624]AssetCheck: New page: Asset Save: Menu_Widget
+[2024.04.25-16.09.21:598][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget
+[2024.04.25-16.09.35:645][233]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.ConfirmQuit_Widget
+[2024.04.25-16.09.35:645][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.09.35:645][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.09.35:687][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.09.35:687][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.10.40:284][449]BlueprintLog: New page: Compile ConfirmQuit_Widget
+[2024.04.25-16.10.40:351][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.25-16.10.41:405][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.10.41:557][490]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget
+[2024.04.25-16.10.41:558][490]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/ConfirmQuit_Widget9B7F8EFF48795DBC78D0B8878B2CC561.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.uasset'
+[2024.04.25-16.10.41:581][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 4.94 sec)
+[2024.04.25-16.10.41:586][490]AssetCheck: New page: Asset Save: ConfirmQuit_Widget
+[2024.04.25-16.10.41:586][490]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.ConfirmQuit_Widget
+[2024.04.25-16.10.52:348][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.10.52:487][ 75]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget
+[2024.04.25-16.10.52:487][ 75]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/ConfirmQuit_Widget88620CB04C57CAA74E7DDBA12B2990A8.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.uasset'
+[2024.04.25-16.10.52:526][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 5.12 sec)
+[2024.04.25-16.10.52:531][ 75]AssetCheck: New page: Asset Save: ConfirmQuit_Widget
+[2024.04.25-16.10.52:532][ 75]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.ConfirmQuit_Widget
+[2024.04.25-16.10.54:428][154]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.10.54:436][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.10.54:436][154]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:10:54)
+[2024.04.25-16.10.54:436][154]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.10.54:439][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003132s)
+[2024.04.25-16.10.54:439][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003162s)
+[2024.04.25-16.10.54:439][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.10.54:440][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.10.54:440][154]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.10.54:440][154]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.04.25-16.10.54:462][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.25-16.10.54:465][154]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.10.54:465][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.10.54:465][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.10.54:465][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.10.54:465][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.10.54:465][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.10.54:467][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.10.54:480][154]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.10.54:480][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.10.54:480][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.10.54:480][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.10.54:482][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.04.25-16.10.54:482][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.04.25-16.10.54:483][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.04.25-16.10.54:483][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.04.25-16.10.54:483][154]LogInit: FAudioDevice initialized with ID 25.
+[2024.04.25-16.10.54:483][154]LogAudio: Display: Audio Device (ID: 25) registered with world 'L_MainMenu'.
+[2024.04.25-16.10.54:483][154]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.25-16.10.54:542][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.10.54:542][154]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.10.54:545][154]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.10.54
+[2024.04.25-16.10.54:546][154]LogWorld: Bringing up level for play took: 0.003670
+[2024.04.25-16.10.54:547][154]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.04.25-16.10.54:552][154]PIE: Server logged in
+[2024.04.25-16.10.54:554][154]PIE: Play in editor total start time 0.118 seconds.
+[2024.04.25-16.10.54:580][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:581][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:581][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:581][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:582][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:582][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:583][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:584][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.10.54:585][154]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.11.08:625][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.11.08:625][566]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.11.08:625][566]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.11.08:646][566]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.11.08:646][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.11.08:648][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.11.08:652][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.11.08:674][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.11.08:674][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.25-16.11.08:674][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.25-16.11.08:676][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.25-16.11.08:682][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.25-16.11.08:696][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:696][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:697][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:697][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:698][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:698][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:699][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:700][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.08:707][567]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.04.25-16.11.08:712][567]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.11.34:716][908]BlueprintLog: New page: Compile ConfirmQuit_Widget
+[2024.04.25-16.11.34:762][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.25-16.11.35:435][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.11.35:590][932]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget
+[2024.04.25-16.11.35:591][932]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/ConfirmQuit_Widget93D39DA04E9FBFEA9EC0CDAA65986F1F.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.uasset'
+[2024.04.25-16.11.35:614][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 5.30 sec)
+[2024.04.25-16.11.35:619][932]AssetCheck: New page: Asset Save: ConfirmQuit_Widget
+[2024.04.25-16.11.35:619][932]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/ConfirmQuit_Widget.ConfirmQuit_Widget
+[2024.04.25-16.11.36:862][984]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.11.36:870][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.11.36:870][984]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:11:36)
+[2024.04.25-16.11.36:870][984]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.11.36:873][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2024.04.25-16.11.36:873][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003140s)
+[2024.04.25-16.11.36:873][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.11.36:873][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.11.36:874][984]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.11.36:874][984]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2024.04.25-16.11.36:896][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.25-16.11.36:898][984]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.11.36:898][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.11.36:898][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.11.36:899][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.11.36:899][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.11.36:899][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.11.36:901][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.11.36:914][984]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.11.36:914][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.11.36:915][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.11.36:915][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.11.36:916][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.04.25-16.11.36:916][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.04.25-16.11.36:917][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.04.25-16.11.36:917][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.04.25-16.11.36:917][984]LogInit: FAudioDevice initialized with ID 26.
+[2024.04.25-16.11.36:917][984]LogAudio: Display: Audio Device (ID: 26) registered with world 'L_MainMenu'.
+[2024.04.25-16.11.36:917][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.25-16.11.36:974][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.11.36:974][984]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.11.36:977][984]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.11.36
+[2024.04.25-16.11.36:978][984]LogWorld: Bringing up level for play took: 0.003593
+[2024.04.25-16.11.36:980][984]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.04.25-16.11.36:984][984]PIE: Server logged in
+[2024.04.25-16.11.36:985][984]PIE: Play in editor total start time 0.115 seconds.
+[2024.04.25-16.11.37:004][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:004][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:005][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:005][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:005][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:006][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:006][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:007][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.11.37:008][984]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.12.13:865][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.12.13:865][ 70]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.12.13:865][ 70]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.12.13:900][ 70]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.12.13:901][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.12.13:903][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.12.13:907][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.12.13:928][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.12.13:929][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.25-16.12.13:929][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.25-16.12.13:930][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.25-16.12.13:937][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.25-16.12.13:951][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:952][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:952][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:953][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:953][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:953][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:954][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:955][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.12.13:963][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.04.25-16.12.13:968][ 71]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.13.29:661][915]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.13.29:670][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.13.29:670][915]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:13:29)
+[2024.04.25-16.13.29:670][915]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.13.29:674][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003433s)
+[2024.04.25-16.13.29:674][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003465s)
+[2024.04.25-16.13.29:674][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.13.29:674][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.13.29:674][915]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.13.29:674][915]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2024.04.25-16.13.29:697][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.25-16.13.29:699][915]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.13.29:699][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.13.29:699][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.13.29:700][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.13.29:700][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.13.29:700][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.13.29:701][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.13.29:715][915]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.13.29:715][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.13.29:715][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.13.29:715][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.13.29:716][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.04.25-16.13.29:716][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.04.25-16.13.29:717][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.04.25-16.13.29:717][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.04.25-16.13.29:717][915]LogInit: FAudioDevice initialized with ID 27.
+[2024.04.25-16.13.29:717][915]LogAudio: Display: Audio Device (ID: 27) registered with world 'L_MainMenu'.
+[2024.04.25-16.13.29:717][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.25-16.13.29:756][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.13.29:757][915]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.13.29:760][915]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.13.29
+[2024.04.25-16.13.29:760][915]LogWorld: Bringing up level for play took: 0.003658
+[2024.04.25-16.13.29:762][915]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.25-16.13.29:767][915]PIE: Server logged in
+[2024.04.25-16.13.29:768][915]PIE: Play in editor total start time 0.099 seconds.
+[2024.04.25-16.13.29:787][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:787][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:788][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:788][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:788][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:789][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:789][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:790][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.29:791][915]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.13.45:355][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.13.45:355][372]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.13.45:355][372]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.13.45:378][372]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.13.45:378][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.13.45:381][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.13.45:385][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.13.45:407][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.13.45:407][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.25-16.13.45:407][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.25-16.13.45:408][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.25-16.13.45:415][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.25-16.13.45:433][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:433][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:434][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:434][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:434][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:435][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:435][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:436][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.13.45:445][373]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.04.25-16.13.45:449][373]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.14.26:005][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.25-16.14.26:027][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.25-16.14.27:419][703]LogSlate: Window 'Save Content' being destroyed
+[2024.04.25-16.14.27:460][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.14.27:544][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.25-16.14.27:557][703]LogSavePackage: Moving output files for package: /Game/Levels/L_MainMenu
+[2024.04.25-16.14.27:557][703]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/L_MainMenu307D17D746DBD0CA0E9FB9B234588548.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap'
+[2024.04.25-16.14.27:562][703]LogFileHelpers: No new changes to save!
+[2024.04.25-16.14.27:563][703]LogFileHelpers: Saving map 'L_MainMenu' took 0.040
+[2024.04.25-16.14.27:573][703]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Credits_Widget
+[2024.04.25-16.14.27:573][703]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Credits_Widget31328F7B4BBE271A4D4EE281AD14045D.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Credits_Widget.uasset'
+[2024.04.25-16.14.27:577][703]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam
+[2024.04.25-16.14.27:577][703]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Quit_Cam9D8C1E4842CE75895C2690B6740F2CC3.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Cams/Quit_Cam.uasset'
+[2024.04.25-16.14.27:606][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 5.45 sec)
+[2024.04.25-16.14.27:612][703]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.25-16.14.27:612][703]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Credits_Widget.Credits_Widget
+[2024.04.25-16.14.27:612][703]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_MainMenu.L_MainMenu
+[2024.04.25-16.14.27:612][703]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interfaces/KatieUserWidgets/Cams/Quit_Cam.Quit_Cam
+[2024.04.25-16.15.49:612][897]LogContentBrowser: Deferred new asset file creation: Settings_Cam1
+[2024.04.25-16.15.49:630][897]LogContentBrowser: Creating deferred item: Settings_Cam1
+[2024.04.25-16.15.49:640][898]LogContentBrowser: Renaming the item being created (Deferred Item: Settings_Cam1).
+[2024.04.25-16.15.57:715][374]LogContentBrowser: Attempting asset rename: Settings_Cam1 -> LevelSelect_Cam
+[2024.04.25-16.15.57:741][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.25-16.15.57:750][374]LogContentBrowser: End creating deferred item Settings_Cam1
+[2024.04.25-16.15.59:716][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.15.59:861][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.25-16.15.59:874][484]LogSavePackage: Moving output files for package: /Game/Levels/L_MainMenu
+[2024.04.25-16.15.59:874][484]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/L_MainMenu16EEDC8C4BB9982D7E9DD09676DE0431.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap'
+[2024.04.25-16.15.59:879][484]LogFileHelpers: No new changes to save!
+[2024.04.25-16.15.59:880][484]LogFileHelpers: Saving map 'L_MainMenu' took 0.041
+[2024.04.25-16.15.59:904][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 5.63 sec)
+[2024.04.25-16.15.59:909][484]AssetCheck: New page: Asset Save: L_MainMenu
+[2024.04.25-16.15.59:909][484]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_MainMenu.L_MainMenu
+[2024.04.25-16.17.05:069][458]BlueprintLog: New page: Compile Menu_Widget
+[2024.04.25-16.17.05:113][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.25-16.17.05:928][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.17.06:107][485]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Menu_Widget
+[2024.04.25-16.17.06:108][485]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/Menu_WidgetCD5F281E491CB96D454BCFAA2051301D.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Menu_Widget.uasset'
+[2024.04.25-16.17.06:131][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 5.84 sec)
+[2024.04.25-16.17.06:136][485]AssetCheck: New page: Asset Save: Menu_Widget
+[2024.04.25-16.17.06:136][485]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/Menu_Widget.Menu_Widget
+[2024.04.25-16.17.28:264][561]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.LevelSelect_Widget
+[2024.04.25-16.17.28:265][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.17.28:265][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.17.28:303][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.17.28:303][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.18.02:712][257]BlueprintLog: New page: Compile LevelSelect_Widget
+[2024.04.25-16.18.02:783][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.25-16.18.03:419][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.18.03:576][287]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/LevelSelect_Widget
+[2024.04.25-16.18.03:576][287]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/LevelSelect_Widget9253486C43A17F2FD3FA3C94F4E5A748.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/LevelSelect_Widget.uasset'
+[2024.04.25-16.18.03:600][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 6.02 sec)
+[2024.04.25-16.18.03:605][287]AssetCheck: New page: Asset Save: LevelSelect_Widget
+[2024.04.25-16.18.03:605][287]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interfaces/KatieUserWidgets/LevelSelect_Widget.LevelSelect_Widget
+[2024.04.25-16.18.08:057][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam_C
+[2024.04.25-16.18.08:057][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam_C
+[2024.04.25-16.18.08:059][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam as actor: LevelSelect_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.LevelSelect_Cam_C_0
+[2024.04.25-16.18.08:060][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam as actor: LevelSelect_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.LevelSelect_Cam_C_0
+[2024.04.25-16.18.09:929][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam_C
+[2024.04.25-16.18.09:930][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam_C
+[2024.04.25-16.18.09:932][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam as actor: LevelSelect_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.LevelSelect_Cam_C_1
+[2024.04.25-16.18.09:933][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam as actor: LevelSelect_Cam_C /Game/Levels/L_MainMenu.L_MainMenu:PersistentLevel.LevelSelect_Cam_C_1
+[2024.04.25-16.18.09:954][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.09:976][604]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.18.18:962][111]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.18.18:971][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.18.18:971][111]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:18:18)
+[2024.04.25-16.18.18:971][111]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.18.18:976][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004075s)
+[2024.04.25-16.18.18:976][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.004110s)
+[2024.04.25-16.18.18:976][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.18.18:976][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.18.18:976][111]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.18.18:976][111]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2024.04.25-16.18.19:002][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.25-16.18.19:005][111]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.18.19:005][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.18.19:005][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.18.19:006][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.18.19:006][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.18.19:006][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.18.19:008][111]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.18.19:021][111]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.18.19:021][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.18.19:021][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.18.19:021][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.18.19:022][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.04.25-16.18.19:022][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.04.25-16.18.19:024][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.04.25-16.18.19:024][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.04.25-16.18.19:024][111]LogInit: FAudioDevice initialized with ID 28.
+[2024.04.25-16.18.19:024][111]LogAudio: Display: Audio Device (ID: 28) registered with world 'L_MainMenu'.
+[2024.04.25-16.18.19:024][111]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.25-16.18.19:072][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.18.19:072][111]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.18.19:076][111]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.18.19
+[2024.04.25-16.18.19:076][111]LogWorld: Bringing up level for play took: 0.003974
+[2024.04.25-16.18.19:078][111]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.25-16.18.19:083][111]PIE: Server logged in
+[2024.04.25-16.18.19:084][111]PIE: Play in editor total start time 0.113 seconds.
+[2024.04.25-16.18.19:111][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:112][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:112][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:112][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:113][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:113][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:114][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:115][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.19:116][111]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.18.25:423][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.18.25:423][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.18.25:424][296]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.18.25:449][296]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.18.25:449][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.18.25:451][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.18.25:455][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.18.25:476][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-16.18.25:476][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.25-16.18.25:477][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.25-16.18.25:478][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.25-16.18.25:485][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.25-16.18.25:499][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:499][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:499][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:500][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:500][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:501][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:501][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:502][296]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.25:511][297]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.25-16.18.25:516][297]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.18.36:562][861]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.25-16.18.36:571][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-16.18.36:571][861]PIE: New page: PIE session: L_MainMenu (25 Apr 2024, 18:18:36)
+[2024.04.25-16.18.36:571][861]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.18.36:575][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003609s)
+[2024.04.25-16.18.36:575][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_MainMenu.L_MainMenu to /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu (0.003642s)
+[2024.04.25-16.18.36:575][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-16.18.36:575][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-16.18.36:575][861]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.25-16.18.36:575][861]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2024.04.25-16.18.36:598][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.25-16.18.36:600][861]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.25-16.18.36:600][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-16.18.36:600][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-16.18.36:600][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-16.18.36:600][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-16.18.36:600][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-16.18.36:602][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-16.18.36:615][861]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2024.04.25-16.18.36:615][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-16.18.36:615][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-16.18.36:615][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-16.18.36:616][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.04.25-16.18.36:616][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.04.25-16.18.36:618][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.04.25-16.18.36:618][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.04.25-16.18.36:618][861]LogInit: FAudioDevice initialized with ID 29.
+[2024.04.25-16.18.36:618][861]LogAudio: Display: Audio Device (ID: 29) registered with world 'L_MainMenu'.
+[2024.04.25-16.18.36:618][861]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.25-16.18.36:673][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.18.36:673][861]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.25-16.18.36:676][861]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 0) at 2024.04.25-17.18.36
+[2024.04.25-16.18.36:677][861]LogWorld: Bringing up level for play took: 0.003807
+[2024.04.25-16.18.36:679][861]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.04.25-16.18.36:683][861]PIE: Server logged in
+[2024.04.25-16.18.36:685][861]PIE: Play in editor total start time 0.113 seconds.
+[2024.04.25-16.18.36:711][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:711][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:712][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:712][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:712][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:713][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:713][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:714][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.18.36:715][861]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.04.25-16.19.00:293][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-16.19.00:294][555]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_MainMenu
+[2024.04.25-16.19.00:294][555]LogSlate: Window 'RealmWalker Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.25-16.19.00:318][555]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-16.19.00:318][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.19.00:320][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-16.19.00:327][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-16.19.00:349][555]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.25-16.19.00:349][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.25-16.19.00:351][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.25-16.19.00:357][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.25-16.19.00:371][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:371][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:372][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:372][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:372][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:373][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:373][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:374][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.00:382][556]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.04.25-16.19.00:387][556]LogViewport: Scene viewport resized to 420x176, mode Windowed.
+[2024.04.25-16.19.01:884][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.01:885][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.01:886][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.01:887][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.01:888][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.01:889][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.25-16.19.05:652][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.19.05:818][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.25-16.19.05:831][856]LogSavePackage: Moving output files for package: /Game/Levels/L_MainMenu
+[2024.04.25-16.19.05:832][856]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/L_MainMenuCD569BD64DF8FCD551B6A6B8314F81AA.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap'
+[2024.04.25-16.19.05:836][856]LogFileHelpers: No new changes to save!
+[2024.04.25-16.19.05:838][856]LogFileHelpers: Saving map 'L_MainMenu' took 0.064
+[2024.04.25-16.19.05:861][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 6.23 sec)
+[2024.04.25-16.19.05:866][856]AssetCheck: New page: Asset Save: L_MainMenu
+[2024.04.25-16.19.05:866][856]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/L_MainMenu.L_MainMenu
+[2024.04.25-16.19.07:252][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.25-16.19.08:770][932]LogSlate: Window 'Save Content' being destroyed
+[2024.04.25-16.19.08:811][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-16.19.08:874][932]LogSavePackage: Moving output files for package: /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam
+[2024.04.25-16.19.08:874][932]LogSavePackage: Moving '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Saved/LevelSelect_CamAFC19F344937474EBEF009A90A687625.tmp' to '../../../../../../Users/f024911k/Documents/GitHub/CollabProject/RealmWalker/Content/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.uasset'
+[2024.04.25-16.19.08:927][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 6.34 sec)
+[2024.04.25-16.19.08:932][932]AssetCheck: New page: Asset Save: LevelSelect_Cam
+[2024.04.25-16.19.08:932][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interfaces/KatieUserWidgets/Cams/LevelSelect_Cam.LevelSelect_Cam
