@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/m016286k.STUDENT.000/Documents/GitHub/CollabProject/RealmWalker/Content/Materials/Outline/MAT_StencilOutline.uasset",
+				"C:/Users/m016286k.STUDENT.000/Documents/GitHub/CollabProject/RealmWalker/Content/Blueprints/BP_CrateRolling.uasset",
+				"C:/Users/m016286k.STUDENT.000/Documents/GitHub/CollabProject/RealmWalker/Content/Levels/L_MainMenu.umap",
 				"F:/github/CollabProject/RealmWalker/Content/Levels/L_Main.umap",
 				"F:/github/CollabProject/RealmWalker/Content/Levels/L_Realm1.umap",
 				"F:/github/CollabProject/RealmWalker/Content/Levels/L_RealmMain.umap",
